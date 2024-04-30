@@ -10,6 +10,9 @@ This is a web front-end project for the Jharkhand Tourism website. It provides a
 - [Contributing](#contributing)
 - [License](#license)
 
+
+## Website Looks like this :
+![](Screenshot.png)
 ## Features
 
 - **Responsive Design**: The website is designed to be fully responsive, ensuring a smooth experience across various devices and screen sizes.
@@ -53,3 +56,4 @@ Contributions are welcome! If you would like to suggest improvements or fixes, p
 ## License
 
 This project is licensed under the MIT License.
+ 
